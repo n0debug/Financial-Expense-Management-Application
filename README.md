@@ -57,9 +57,9 @@ Data Storage: A file named data.txt will be created in the same directory. You c
 Project Structure :
 Plaintext
 
-├── FinanceApp.java    # Main source code containing all logic
-├── FinanceApp.class   # Compiled bytecode (generated after javac)
-└── data.txt           # Persistent storage file (generated at runtime)
+FinanceApp.java    # Main source code containing all logic
+FinanceApp.class   # Compiled bytecode (generated after javac)
+data.txt           # Persistent storage file (generated at runtime)
 
 Important Note on Data Format
 The application expects the data.txt file to follow this specific comma-separated format:
