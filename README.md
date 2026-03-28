@@ -2,6 +2,7 @@
 Managing personal finances manually is often confusing and unorganized. People forget where their money goes and struggle to monitor income, expenses, and savings effectively. This application helps users record, categorize, and analyse their income and expenses to improve financial planning.
 
 Finance Mnagement App (Java)
+
 A lightweight, console-based Java application designed to help users manage their personal finances. This tool allows for the tracking of income and expenses with persistent storage, ensuring your financial data is saved even after the program closes.
 
 Project Overview :
